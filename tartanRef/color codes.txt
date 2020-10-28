@@ -1,0 +1,33 @@
++abercrombie
+
+  blu
+#000254
+  verde
+#006534
+  bianco
+
+
++aberdeen
+
+  rosso
+#ff0000
+  verde
+#029d29
+  azzurro
+#0197d0
+  nero
+  bianco
+
+
++agnew
+
+  rosso
+#ec2023
+  blu
+#1a1850
+  verde
+#023233
+
+
+pink-beige
+#d2a385
